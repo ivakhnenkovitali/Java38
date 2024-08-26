@@ -1,4 +1,4 @@
-package _java38.stand;
+package java38.stand;
 
 import java.io.Serializable;
 import java.util.StringJoiner;

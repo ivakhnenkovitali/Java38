@@ -1,6 +1,6 @@
-package _java38.resources;
+package java38.resources;
 
-import _java38.stand.Child;
+import java38.stand.Child;
 
 import java.io.*;
 

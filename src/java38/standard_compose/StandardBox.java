@@ -1,4 +1,4 @@
-package _java38.standard_compose;
+package java38.standard_compose;
 
 import java.util.List;
 import java.util.StringJoiner;
